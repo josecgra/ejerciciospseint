@@ -4,7 +4,7 @@
 
 Funcion num<- max(num1,num2)
 	Definir num como Entero;
-	Si num1>num1 Entonces
+	Si num1>num2 Entonces
 		num<-num1;
 	SiNo
 		num<-num2;	

@@ -1,5 +1,5 @@
 //###############################################################################
-//Función max: Función auxiliar que calcula el máximo de dos números
+//Función max: Función auxiliar que calcula el máximo de dos númeross
 //################################################################################
 
 Funcion num<- max(num1,num2)
